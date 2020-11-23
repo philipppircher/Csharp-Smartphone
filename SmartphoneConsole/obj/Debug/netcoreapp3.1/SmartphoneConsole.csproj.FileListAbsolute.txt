@@ -1,0 +1,13 @@
+C:\Users\DCV\Desktop\Code\05 C#\SmartphoneConsole\SmartphoneConsole\bin\Debug\netcoreapp3.1\SmartphoneConsole.exe
+C:\Users\DCV\Desktop\Code\05 C#\SmartphoneConsole\SmartphoneConsole\bin\Debug\netcoreapp3.1\SmartphoneConsole.deps.json
+C:\Users\DCV\Desktop\Code\05 C#\SmartphoneConsole\SmartphoneConsole\bin\Debug\netcoreapp3.1\SmartphoneConsole.runtimeconfig.json
+C:\Users\DCV\Desktop\Code\05 C#\SmartphoneConsole\SmartphoneConsole\bin\Debug\netcoreapp3.1\SmartphoneConsole.runtimeconfig.dev.json
+C:\Users\DCV\Desktop\Code\05 C#\SmartphoneConsole\SmartphoneConsole\bin\Debug\netcoreapp3.1\SmartphoneConsole.dll
+C:\Users\DCV\Desktop\Code\05 C#\SmartphoneConsole\SmartphoneConsole\bin\Debug\netcoreapp3.1\SmartphoneConsole.pdb
+C:\Users\DCV\Desktop\Code\05 C#\SmartphoneConsole\SmartphoneConsole\obj\Debug\netcoreapp3.1\SmartphoneConsole.csprojAssemblyReference.cache
+C:\Users\DCV\Desktop\Code\05 C#\SmartphoneConsole\SmartphoneConsole\obj\Debug\netcoreapp3.1\SmartphoneConsole.AssemblyInfoInputs.cache
+C:\Users\DCV\Desktop\Code\05 C#\SmartphoneConsole\SmartphoneConsole\obj\Debug\netcoreapp3.1\SmartphoneConsole.AssemblyInfo.cs
+C:\Users\DCV\Desktop\Code\05 C#\SmartphoneConsole\SmartphoneConsole\obj\Debug\netcoreapp3.1\SmartphoneConsole.csproj.CoreCompileInputs.cache
+C:\Users\DCV\Desktop\Code\05 C#\SmartphoneConsole\SmartphoneConsole\obj\Debug\netcoreapp3.1\SmartphoneConsole.dll
+C:\Users\DCV\Desktop\Code\05 C#\SmartphoneConsole\SmartphoneConsole\obj\Debug\netcoreapp3.1\SmartphoneConsole.pdb
+C:\Users\DCV\Desktop\Code\05 C#\SmartphoneConsole\SmartphoneConsole\obj\Debug\netcoreapp3.1\SmartphoneConsole.genruntimeconfig.cache
